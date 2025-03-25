@@ -10,8 +10,8 @@ POST Memebers
 
 GET Tournament
 
-<img width="862" alt="Screenshot 2025-03-25 at 9 25 37 AM" src="https://github.com/user-attachments/assets/b5b98599-cec8-46de-8137-aaaa965fee80" />
+<img width="862" alt="Screenshot 2025-03-25 at 9 25 21 AM" src="https://github.com/user-attachments/assets/23189cc8-2018-415d-9e1d-201c7ee1e5e1" />
 
 POST Tournament
 
-<img width="862" alt="Screenshot 2025-03-25 at 9 25 21 AM" src="https://github.com/user-attachments/assets/23189cc8-2018-415d-9e1d-201c7ee1e5e1" />
+<img width="862" alt="Screenshot 2025-03-25 at 9 25 37 AM" src="https://github.com/user-attachments/assets/b5b98599-cec8-46de-8137-aaaa965fee80" />
